@@ -105,6 +105,18 @@ body {
     line-height: 19px;
 }
 
+/*
+.btn-primary:hover {
+color: #FFF;
+background: #F25822;
+font-family: 'Gilroy-Bold', serif;
+border-radius: 50px;
+box-shadow: 4px 4px 8px 0 rgba(242, 88, 34, 0.20);
+flex-shrink: 0;
+line-height: 19px;
+}
+*/
+
 .btn {
     color: #AAA;
     background-color: #FFFFFF;
@@ -114,6 +126,15 @@ body {
     border-width: 0;
     cursor: pointer;
 }
+
+/*
+.btn-primary {
+color: white;
+background: #F25822;
+border-radius: 50px;
+box-shadow: 4px 4px 8px 0px rgba(242, 88, 34, 0.20);
+}
+*/
 
 .footer__logo {
     display: flex;
